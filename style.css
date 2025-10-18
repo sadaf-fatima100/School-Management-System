@@ -126,7 +126,7 @@ html {
     /* background: linear-gradient(135deg, var(--primary-color), #1e3a8a); */
     position: relative;
     overflow: hidden;
-    background-image: url("https://images.template.net/377856/Education-Graduation-Background-edit-online-1.jpg");
+    background-image: url("./Education-Graduation-hero-Background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -172,7 +172,7 @@ html {
 /* Admission Section */
 #admission {
     padding: 100px 0;
-    background-image: url("https://images.template.net/377859/Graduation-Campus-Background-edit-online-1.jpg");
+    background-image: url("./Graduation-Campus-admissiom.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
